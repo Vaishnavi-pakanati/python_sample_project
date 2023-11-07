@@ -4,3 +4,4 @@ a=b
 b=c
 c=a
 print(a,b)
+print("two numbers swapped ")
